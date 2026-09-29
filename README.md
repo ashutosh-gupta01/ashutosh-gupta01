@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aashutosh Kumar 👋
 
-<!--
-**ashutosh-gupta01/ashutosh-gupta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+I’m a B.Tech graduate and aspiring Software Developer with hands-on experience in Full Stack Web Development using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- Java
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Git & GitHub
+- SQL
+
+### 📌 Featured Projects
+
+#### 🏥 MediSphere – Smart Hospital Management System
+A MERN-based hospital management system with authentication, role-based access, appointment booking, patient management, and analytics.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Chart.js
+
+#### 💼 CareerConnect – Smart Hiring & Recruitment Portal
+A recruitment platform where recruiters can post jobs and job seekers can apply. Includes authentication, role-based authorization, subscription payments, and analytics.
+
+**Tech:** MERN, JWT, Razorpay, Chart.js
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/aashutosh-kumar-gupta-0561ab265/
+- Email: ashutoshsik2@gmail.com
