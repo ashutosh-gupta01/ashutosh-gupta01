@@ -49,13 +49,13 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
   solutions.
 </p>
 
+
 ## Professional Experience
 
-**Software Development Intern** 
-* InfoSeek* | Lucknow, India
-july 2026 – Aug 2026
+### Software Development Intern
+**InfoSeek** | Lucknow, India  
+*July 2026 – August 2026*
 
-- Developed interactive React.js dashboards with reusable UI components to improve data visualization and user experience.
-- Assisted in backend API development and optimization, contributing to a reported 25% reduction in API response time
--  Performed debugging, API testing, and performance analysis to identify issues and improve application reliability.
-
+- Developed interactive React.js dashboards using reusable UI components to improve data visualization and user experience.
+- Assisted in backend API development and optimization, contributing to a reported 25% reduction in API response time.
+- Performed debugging, API testing, and performance analysis to identify issues and improve application reliability.
