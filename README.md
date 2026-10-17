@@ -49,16 +49,13 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
   solutions.
 </p>
 
-## 🤝 Connect With Me
+## Professional Experience
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://personalportfolio-bzqy.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Software Development Intern** 
+* InfoSeek* | Lucknow, India
+july 2026 – Aug 2026
+
+- Developed interactive React.js dashboards with reusable UI components to improve data visualization and user experience.
+- Assisted in backend API development and optimization, contributing to a reported 25% reduction in API response time
+-  Performed debugging, API testing, and performance analysis to identify issues and improve application reliability.
+
