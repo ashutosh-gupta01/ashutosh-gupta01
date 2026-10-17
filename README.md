@@ -49,6 +49,7 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
   solutions.
 </p>
 
+---
 
 ## Professional Experience
 
