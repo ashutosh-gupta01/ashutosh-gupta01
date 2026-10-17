@@ -6,19 +6,19 @@
 <p align="center">
   Full Stack Developer passionate about building responsive,
   user-friendly web applications using modern technologies.
-  Interested in developing efficient solutions with React,
-  Node.js, Express.js, and MongoDB.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="www.linkedin.com/in/
+aashutosh-kumar-gupta-0561ab265
+">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://personalportfolio-bzqy.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:ashutoshsik2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
