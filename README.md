@@ -42,6 +42,12 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
+<p>
+  I work with these technologies to build responsive web applications,
+  develop REST APIs, implement authentication, and manage databases.
+  I focus on writing clean code and creating reliable, user-friendly
+  solutions.
+</p>
 
 ## 🤝 Connect With Me
 
