@@ -22,13 +22,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-- 🎓 Recent B.Tech graduate.
-- 💻 Interested in Full Stack Web Development.
-- 🌱 Continuously improving my MERN Stack skills.
-- 🔌 Interested in REST APIs, authentication, and database management.
-- 🎯 Focused on writing clean code and building practical web applications.
+A recent B.Tech graduate and aspiring Software Developer with hands-on experience in full-stack web development using the MERN stack. Skilled in building responsive user interfaces, developing RESTful APIs, implementing JWT authentication, and managing databases. Passionate about writing clean, maintainable code and building scalable web applications while continuously learning modern technologies.
 
 ## 🛠️ Languages and Tools
 
