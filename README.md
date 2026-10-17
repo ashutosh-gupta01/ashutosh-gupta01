@@ -4,16 +4,21 @@
 <h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
 
 <p align="center">
-  A passionate developer focused on building responsive web applications
-  and learning modern technologies.
+  Full Stack Developer passionate about building responsive,
+  user-friendly web applications using modern technologies.
+  Interested in developing efficient solutions with React,
+  Node.js, Express.js, and MongoDB.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh-gupta01">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://personalportfolio-bzqy.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -23,27 +28,26 @@
 
 - 🎓 Recent B.Tech graduate.
 - 💻 Interested in Full Stack Web Development.
-- 🌱 Currently improving my MERN Stack skills.
-- 🔌 Experienced in building REST APIs and implementing authentication.
-- 🎯 Focused on writing clean code and creating user-friendly applications.
+- 🌱 Continuously improving my MERN Stack skills.
+- 🔌 Interested in REST APIs, authentication, and database management.
+- 🎯 Focused on writing clean code and building practical web applications.
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman" alt="Skills and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman&perline=7" height="32" alt="Languages and Tools" />
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ashutosh-gupta01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Replace the URL below with your actual LinkedIn profile URL -->
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://personalportfolio-bzqy.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
