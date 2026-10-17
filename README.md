@@ -26,10 +26,10 @@
 
 A recent B.Tech graduate and aspiring Software Developer with hands-on experience in full-stack web development using the MERN stack. Skilled in building responsive user interfaces, developing RESTful APIs, implementing JWT authentication, and managing databases. Passionate about writing clean, maintainable code and building scalable web applications while continuously learning modern technologies.
 
-## 🛠️ Languages and Tools
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman&perline=7" height="32" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman&perline=7" height="40" alt="Languages and Tools" />
 </p>
 
 ## 🤝 Connect With Me
