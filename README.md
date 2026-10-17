@@ -1,34 +1,49 @@
-# Hi, I'm Aashutosh Kumar 👋
 
-### 💻 Software Developer | Full Stack Developer
+<h1 align="center">Hi 👋, I'm Aashutosh Gupta</h1>
 
-I’m a B.Tech graduate and aspiring Software Developer with hands-on experience in Full Stack Web Development using the MERN stack.
+<h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
 
-### 🚀 Skills
+<p align="center">
+  A passionate developer focused on building responsive web applications
+  and learning modern technologies.
+</p>
 
-- Java
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Git & GitHub
-- SQL
+<p align="center">
+  <a href="https://github.com/ashutosh-gupta01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://personalportfolio-bzqy.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-### 📌 Featured Projects
+---
 
-#### 🏥 MediSphere – Smart Hospital Management System
-A MERN-based hospital management system with authentication, role-based access, appointment booking, patient management, and analytics.
+## 👨‍💻 About Me
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Chart.js
+- 🎓 Recent B.Tech graduate.
+- 💻 Interested in Full Stack Web Development.
+- 🌱 Currently improving my MERN Stack skills.
+- 🔌 Experienced in building REST APIs and implementing authentication.
+- 🎯 Focused on writing clean code and creating user-friendly applications.
 
-#### 💼 CareerConnect – Smart Hiring & Recruitment Portal
-A recruitment platform where recruiters can post jobs and job seekers can apply. Includes authentication, role-based authorization, subscription payments, and analytics.
+## 🛠️ Languages and Tools
 
-**Tech:** MERN, JWT, Razorpay, Chart.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman" alt="Skills and Tools" />
+</p>
 
-### 📫 Connect With Me
+## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/aashutosh-kumar-gupta-0561ab265/
-- Email: ashutoshsik2@gmail.com
+<p align="left">
+  <a href="https://github.com/ashutosh-gupta01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Replace the URL below with your actual LinkedIn profile URL -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://personalportfolio-bzqy.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
