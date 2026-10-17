@@ -28,8 +28,29 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman&perline=7" height="40" alt="Languages and Tools" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" height="35" />
+</p>
+
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="35" />
+</p>
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="35" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="35" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="35" />
 </p>
 
 ## 🤝 Connect With Me
