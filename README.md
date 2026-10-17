@@ -52,7 +52,6 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
 ---
 
 ## Professional Experience
-
 ### Software Development Intern
 **InfoSeek** | Lucknow, India  
 *July 2026 – August 2026*
