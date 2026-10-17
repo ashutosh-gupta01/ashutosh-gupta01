@@ -56,6 +56,8 @@ A recent B.Tech graduate and aspiring Software Developer with hands-on experienc
 **InfoSeek** | Lucknow, India  
 *July 2026 – August 2026*
 
-<p>Developed interactive React.js dashboards using reusable UI components to improve data visualization and user experience.</p>
-<p>Assisted in backend API development and optimization, contributing to a reported 25% reduction in API response time.</p>
-<p>Performed debugging, API testing, and performance analysis to identify issues and improve application reliability.</p>
+- Developed interactive React.js dashboards using reusable UI components to improve data visualization and user experience.
+- Assisted in backend API development and optimization, contributing to a reported 25% reduction in API response time.
+- Performed debugging, API testing, and performance analysis to identify issues and improve application reliability.
+
+  ---
